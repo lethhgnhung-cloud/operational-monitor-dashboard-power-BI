@@ -57,7 +57,8 @@ The data revealed critical patterns that led to strategic adjustments:
 
 - Strategic Self-Service: Empowered branch managers to monitor their own "Remaining Budget" in real-time, fostering a culture of financial accountability.
 
-**8. Demo**
+**8. Demo** 
+https://github.com/lethhgnhung-cloud/operational-monitor-dashboard-power-BI/blob/main/snapshot%20of%20dashboard.png
 
 📂 **How to Access**
 
