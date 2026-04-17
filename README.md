@@ -41,6 +41,7 @@ The dashboard focuses on core financial health indicators:
 
 
 **6. Actionable Business Insights** 💡
+
 The data revealed critical patterns that led to strategic adjustments:
 
 - Cost Concentration: Rent was identified as the largest driver at 15.67 billion (~68% of total), prompting an immediate lease renegotiation review.
